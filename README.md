@@ -10,8 +10,9 @@ Using Spring Boot embedded Tomcat Server.
 Database Name : springbootapi
 
 ## APIs Developed for  :
+
+
 ```
-###
 1.getItems             -----GET
 
 2.getItems by ID        -----GET
@@ -25,7 +26,11 @@ Database Name : springbootapi
 6.deleteAllItems        ------DELETE
 
 7.patchUpdateById       -----PATCH
-###
 
 ```
 
+## Author
+
+* **Mukul Jaiswal** - *Initial work* - [Mukul Jaiswal](https://www.linkedin.com/in/mukul-jaiswal-82a2b8144/)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
