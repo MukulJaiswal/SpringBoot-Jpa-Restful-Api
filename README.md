@@ -13,19 +13,19 @@ Database Name : springbootapi
 
 
 ```
-* **getItems**             -----GET
+1.getItems             -----GET
 
-* **getItems by ID**       -----GET
+2.getItems by ID       -----GET
 
-* **addItems**             -----POST
+3.addItems             -----POST
 
-* **updateItems**          -----PUT
+4.updateItems          -----PUT
 
-* **updateItemByID**       -----PUT
+5.updateItemByID       -----PUT
 
-* **deleteAllItems**       -----DELETE
+6.deleteAllItems       -----DELETE
 
-* **patchUpdateById**      -----PATCH
+7.patchUpdateById      -----PATCH
 
 ```
 
